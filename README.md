@@ -1,8 +1,3 @@
-To effectively document your student enrollment form project, a comprehensive README file is essential. Below is a template for a README that explains the project, its structure, and how to set it up. This format ensures clarity and ease of understanding, making it easier for other developers or users to work with or contribute to the project.
-
-### README Template for Student Enrollment Form
-
----
 
 #### Project Title: Student Enrollment Form
 
